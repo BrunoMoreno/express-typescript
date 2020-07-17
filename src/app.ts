@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Express working with Typescript, with ts-node-dev!');
+  res.json({'message' : 'Express working with Typescript, with ts-node-dev!'});
 });
 
 app.listen(port, err => {

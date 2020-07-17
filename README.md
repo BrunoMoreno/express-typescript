@@ -10,6 +10,7 @@ A simple express + typescript setup to start your next project.
     $ cd express-typescript && yarn
 
     $ yarn start
+    
 </code>
 
 Be happy 🎉!
