@@ -1,0 +1,9 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "A simple setup for express with typescript",
+  "main": "index.js",
+  "repository": "https://github.com/BrunoMoreno/express-typescript",
+  "author": "Bruno Moreno",
+  "license": "MIT"
+}
