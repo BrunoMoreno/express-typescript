@@ -11,6 +11,7 @@ A simple express + typescript setup to start your next project.
 
     $ yarn start
     
+    $ yarn watch
 </code>
 
 Be happy 🎉!
